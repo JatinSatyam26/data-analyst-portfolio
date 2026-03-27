@@ -1,0 +1,401 @@
+Order_ID,Date,Product,Region,Sales_Rep,Quantity,Revenue,Status
+ORD-10162,2026-02-25,Headset,West,Bob Chen,10,952.47,Pending
+ORD-10150,2026-02-25,Laptop,West,Eva Patel,9,9816.19,Returned
+ORD-10068,2026-02-25,Laptop,West,Bob Chen,10,11317.66,Pending
+ORD-10346,2026-02-25,Mouse,South,Bob Chen,3,113.33,Completed
+ORD-10344,2026-02-25,Webcam,North,Alice Monroe,1,81.68,Completed
+ORD-10057,2026-02-25,Docking Station,North,Carol Singh,5,907.94,Pending
+ORD-10210,2026-02-25,Mouse,South,Bob Chen,4,166.57,Returned
+ORD-10276,2026-02-25,Webcam,East,Alice Monroe,5,423.57,Completed
+ORD-10046,2026-02-25,Monitor,South,David Kim,9,2960.42,Completed
+ORD-10239,2026-02-25,Monitor,North,David Kim,2,645.28,Pending
+ORD-10381,2026-02-25,Keyboard,South,Eva Patel,4,327.01,Returned
+ORD-10075,2026-02-25,Keyboard,East,Frank Torres,4,301.28,Pending
+ORD-10053,2026-02-26,Monitor,West,Bob Chen,10,3329.76,Completed
+ORD-10204,2026-02-26,Keyboard,West,Bob Chen,9,682.92,Completed
+ORD-10153,2026-02-26,Headset,South,Alice Monroe,5,525.52,Completed
+ORD-10259,2026-02-26,Keyboard,East,Bob Chen,2,135.11,Returned
+ORD-10050,2026-02-26,Monitor,West,David Kim,8,2767.61,Completed
+ORD-10358,2026-02-26,Keyboard,South,Carol Singh,1,75.16,Completed
+ORD-10357,2026-02-26,Headset,East,Carol Singh,7,782.92,Pending
+ORD-10200,2026-02-26,Headset,South,Alice Monroe,7,797.24,Completed
+ORD-10229,2026-02-26,Webcam,West,Bob Chen,8,666.66,Completed
+ORD-10178,2026-02-26,Webcam,East,David Kim,7,516.33,Pending
+ORD-10374,2026-02-26,Laptop,South,Alice Monroe,10,10597.77,Completed
+ORD-10347,2026-02-27,Laptop,East,Bob Chen,9,11348.9,Pending
+ORD-10102,2026-02-27,Docking Station,North,Alice Monroe,3,574.47,Completed
+ORD-10179,2026-02-27,Docking Station,East,David Kim,5,993.31,Returned
+ORD-10321,2026-02-27,Monitor,North,Carol Singh,6,2055.76,Returned
+ORD-10055,2026-02-27,Mouse,North,Frank Torres,6,250.63,Completed
+ORD-10142,2026-02-27,Keyboard,West,Carol Singh,2,169.07,Pending
+ORD-10256,2026-02-27,Laptop,West,Bob Chen,8,9340.64,Completed
+ORD-10278,2026-02-27,Keyboard,North,Eva Patel,2,140.42,Completed
+ORD-10136,2026-02-27,Keyboard,East,Bob Chen,7,501.77,Completed
+ORD-10045,2026-02-27,Laptop,West,Frank Torres,9,9950.8,Pending
+ORD-10237,2026-02-27,Docking Station,South,Bob Chen,3,561.09,Completed
+ORD-10076,2026-02-28,Laptop,South,Eva Patel,10,10491.65,Pending
+ORD-10091,2026-02-28,Mouse,South,Alice Monroe,5,211.53,Completed
+ORD-10083,2026-02-28,Webcam,South,Eva Patel,7,514.14,Completed
+ORD-10300,2026-02-28,Monitor,South,Frank Torres,9,2836.58,Returned
+ORD-10362,2026-02-28,Webcam,West,Bob Chen,3,227.64,Completed
+ORD-10365,2026-02-28,Monitor,West,Alice Monroe,8,2475.46,Completed
+ORD-10134,2026-02-28,Keyboard,North,Alice Monroe,4,319.0,Completed
+ORD-10119,2026-02-28,Webcam,North,Frank Torres,6,465.6,Completed
+ORD-10135,2026-02-28,Laptop,West,Frank Torres,7,7928.54,Pending
+ORD-10289,2026-03-01,Headset,West,Bob Chen,5,516.31,Completed
+ORD-10004,2026-03-01,Laptop,West,Bob Chen,2,2231.57,Returned
+ORD-10157,2026-03-01,Laptop,South,David Kim,3,2963.74,Completed
+ORD-10369,2026-03-01,Laptop,South,Frank Torres,4,4656.4,Completed
+ORD-10002,2026-03-01,Laptop,West,Frank Torres,4,4888.47,Pending
+ORD-10352,2026-03-01,Mouse,West,Frank Torres,7,315.58,Completed
+ORD-10292,2026-03-01,Headset,North,Frank Torres,5,524.07,Pending
+ORD-10312,2026-03-01,Webcam,West,Alice Monroe,7,601.96,Completed
+ORD-10097,2026-03-01,Mouse,South,Carol Singh,6,260.43,Completed
+ORD-10070,2026-03-01,Docking Station,West,Eva Patel,8,1406.6,Completed
+ORD-10285,2026-03-01,Keyboard,South,Alice Monroe,1,74.0,Pending
+ORD-10183,2026-03-01,Monitor,West,Eva Patel,3,975.14,Completed
+ORD-10265,2026-03-02,Docking Station,East,Bob Chen,9,1578.2,Completed
+ORD-10391,2026-03-02,Webcam,South,Frank Torres,1,74.13,Pending
+ORD-10014,2026-03-02,Monitor,West,Alice Monroe,9,2847.28,Completed
+ORD-10103,2026-03-02,Laptop,East,David Kim,9,10373.26,Pending
+ORD-10226,2026-03-02,Laptop,South,Eva Patel,8,9746.55,Completed
+ORD-10132,2026-03-02,Monitor,North,Bob Chen,7,2150.52,Completed
+ORD-10024,2026-03-02,Headset,North,Eva Patel,3,309.9,Returned
+ORD-10065,2026-03-02,Keyboard,West,Carol Singh,7,520.56,Completed
+ORD-10173,2026-03-03,Laptop,North,Eva Patel,4,4893.79,Pending
+ORD-10248,2026-03-03,Webcam,East,David Kim,7,589.68,Completed
+ORD-10343,2026-03-03,Webcam,North,Frank Torres,10,897.12,Completed
+ORD-10196,2026-03-03,Keyboard,East,Carol Singh,3,219.6,Completed
+ORD-10125,2026-03-03,Laptop,South,Frank Torres,9,8712.85,Pending
+ORD-10310,2026-03-03,Laptop,East,Frank Torres,4,4894.02,Completed
+ORD-10325,2026-03-03,Webcam,East,Frank Torres,9,752.95,Completed
+ORD-10048,2026-03-03,Keyboard,South,Eva Patel,7,514.25,Returned
+ORD-10191,2026-03-03,Keyboard,North,Bob Chen,4,314.13,Completed
+ORD-10395,2026-03-03,Docking Station,South,David Kim,5,926.76,Completed
+ORD-10098,2026-03-04,Laptop,South,Frank Torres,5,5291.76,Pending
+ORD-10146,2026-03-04,Docking Station,South,Frank Torres,4,679.5,Completed
+ORD-10327,2026-03-04,Headset,South,Frank Torres,4,487.47,Completed
+ORD-10271,2026-03-04,Headset,East,Alice Monroe,3,366.66,Completed
+ORD-10122,2026-03-04,Docking Station,South,Alice Monroe,5,835.36,Completed
+ORD-10042,2026-03-04,Monitor,South,David Kim,10,3451.89,Pending
+ORD-10140,2026-03-04,Mouse,South,Carol Singh,7,278.48,Completed
+ORD-10205,2026-03-04,Laptop,North,Alice Monroe,1,1074.48,Pending
+ORD-10249,2026-03-04,Docking Station,West,Carol Singh,9,1765.52,Completed
+ORD-10054,2026-03-04,Laptop,South,Frank Torres,6,6601.57,Returned
+ORD-10380,2026-03-04,Docking Station,South,David Kim,1,178.65,Completed
+ORD-10246,2026-03-04,Webcam,North,Eva Patel,4,331.25,Returned
+ORD-10079,2026-03-04,Headset,West,Bob Chen,8,856.78,Returned
+ORD-10017,2026-03-05,Laptop,West,Alice Monroe,3,3589.35,Completed
+ORD-10121,2026-03-05,Mouse,West,Eva Patel,4,166.32,Pending
+ORD-10044,2026-03-05,Headset,North,Carol Singh,2,226.7,Completed
+ORD-10308,2026-03-05,Mouse,West,Frank Torres,4,151.95,Pending
+ORD-10110,2026-03-05,Mouse,East,Frank Torres,6,234.41,Completed
+ORD-10313,2026-03-05,Mouse,East,Carol Singh,7,302.51,Pending
+ORD-10051,2026-03-05,Monitor,North,Alice Monroe,3,917.36,Completed
+ORD-10257,2026-03-05,Mouse,South,Bob Chen,1,44.23,Completed
+ORD-10330,2026-03-05,Keyboard,East,Bob Chen,9,629.2,Pending
+ORD-10298,2026-03-05,Headset,South,Alice Monroe,4,495.88,Returned
+ORD-10351,2026-03-05,Keyboard,North,Frank Torres,3,194.46,Completed
+ORD-10396,2026-03-05,Mouse,West,Alice Monroe,4,184.49,Returned
+ORD-10341,2026-03-05,Docking Station,South,Alice Monroe,9,1815.05,Completed
+ORD-10089,2026-03-05,Webcam,North,Carol Singh,7,600.72,Returned
+ORD-10088,2026-03-05,Webcam,East,Frank Torres,9,761.25,Pending
+ORD-10071,2026-03-05,Docking Station,West,Alice Monroe,2,347.92,Completed
+ORD-10038,2026-03-06,Monitor,South,Alice Monroe,7,2189.1,Returned
+ORD-10187,2026-03-06,Docking Station,West,Eva Patel,3,573.0,Pending
+ORD-10214,2026-03-06,Docking Station,South,Bob Chen,5,952.67,Completed
+ORD-10185,2026-03-06,Laptop,North,Bob Chen,6,7253.84,Completed
+ORD-10128,2026-03-06,Mouse,East,Carol Singh,10,412.9,Completed
+ORD-10255,2026-03-06,Docking Station,North,Eva Patel,5,965.75,Completed
+ORD-10111,2026-03-06,Monitor,South,Alice Monroe,6,1954.66,Returned
+ORD-10067,2026-03-06,Docking Station,West,Bob Chen,3,621.55,Pending
+ORD-10375,2026-03-06,Webcam,East,David Kim,9,730.89,Completed
+ORD-10148,2026-03-06,Mouse,North,Frank Torres,2,93.5,Completed
+ORD-10398,2026-03-06,Mouse,North,Carol Singh,4,146.52,Completed
+ORD-10295,2026-03-06,Mouse,East,Alice Monroe,7,273.17,Returned
+ORD-10037,2026-03-06,Mouse,North,Bob Chen,10,409.99,Completed
+ORD-10023,2026-03-06,Webcam,West,David Kim,3,259.26,Completed
+ORD-10182,2026-03-06,Docking Station,South,Carol Singh,6,1025.09,Completed
+ORD-10127,2026-03-06,Webcam,East,Frank Torres,7,611.63,Pending
+ORD-10130,2026-03-07,Laptop,East,Eva Patel,4,4261.78,Returned
+ORD-10034,2026-03-07,Mouse,North,Alice Monroe,8,339.91,Pending
+ORD-10005,2026-03-07,Webcam,North,David Kim,7,551.81,Completed
+ORD-10217,2026-03-07,Mouse,South,Bob Chen,10,444.74,Returned
+ORD-10284,2026-03-07,Headset,West,Eva Patel,5,615.67,Pending
+ORD-10041,2026-03-07,Laptop,South,Frank Torres,9,10134.68,Returned
+ORD-10368,2026-03-07,Monitor,East,Alice Monroe,8,2914.08,Returned
+ORD-10287,2026-03-07,Laptop,North,Carol Singh,7,7298.36,Returned
+ORD-10151,2026-03-07,Mouse,East,Frank Torres,8,367.08,Completed
+ORD-10274,2026-03-07,Monitor,West,Alice Monroe,6,1825.25,Pending
+ORD-10081,2026-03-07,Webcam,South,Bob Chen,5,368.18,Completed
+ORD-10147,2026-03-07,Laptop,South,Eva Patel,10,11265.11,Completed
+ORD-10165,2026-03-07,Mouse,North,Carol Singh,5,193.16,Completed
+ORD-10170,2026-03-07,Mouse,South,Eva Patel,2,76.79,Completed
+ORD-10107,2026-03-07,Laptop,South,Eva Patel,1,1024.57,Completed
+ORD-10323,2026-03-07,Laptop,South,Frank Torres,9,10230.52,Completed
+ORD-10397,2026-03-07,Webcam,North,David Kim,8,667.06,Completed
+ORD-10350,2026-03-07,Headset,South,Carol Singh,8,918.51,Pending
+ORD-10171,2026-03-07,Docking Station,East,Eva Patel,6,1080.75,Completed
+ORD-10177,2026-03-08,Mouse,West,David Kim,7,275.23,Completed
+ORD-10158,2026-03-08,Monitor,South,Frank Torres,8,2661.56,Completed
+ORD-10303,2026-03-08,Docking Station,East,Alice Monroe,2,399.28,Completed
+ORD-10349,2026-03-08,Laptop,North,Bob Chen,7,8103.95,Returned
+ORD-10190,2026-03-08,Mouse,East,Eva Patel,8,316.29,Completed
+ORD-10242,2026-03-08,Monitor,West,Carol Singh,4,1344.42,Completed
+ORD-10385,2026-03-08,Mouse,East,Bob Chen,7,311.28,Completed
+ORD-10018,2026-03-08,Docking Station,West,David Kim,3,598.55,Returned
+ORD-10030,2026-03-08,Monitor,North,Alice Monroe,2,678.94,Completed
+ORD-10373,2026-03-08,Headset,East,Carol Singh,6,680.96,Returned
+ORD-10047,2026-03-08,Laptop,West,Eva Patel,3,3283.83,Completed
+ORD-10078,2026-03-08,Monitor,West,Frank Torres,7,2410.63,Returned
+ORD-10169,2026-03-08,Laptop,East,Eva Patel,3,3645.04,Pending
+ORD-10337,2026-03-08,Docking Station,South,Carol Singh,2,373.18,Completed
+ORD-10116,2026-03-08,Mouse,West,Frank Torres,10,461.02,Completed
+ORD-10324,2026-03-08,Headset,East,Bob Chen,8,976.04,Completed
+ORD-10329,2026-03-08,Keyboard,West,Frank Torres,2,140.23,Returned
+ORD-10268,2026-03-08,Headset,West,Bob Chen,3,353.18,Completed
+ORD-10231,2026-03-09,Docking Station,North,Alice Monroe,5,793.28,Pending
+ORD-10230,2026-03-09,Docking Station,South,Carol Singh,10,1957.22,Returned
+ORD-10243,2026-03-09,Headset,North,Carol Singh,10,1142.81,Completed
+ORD-10143,2026-03-09,Keyboard,South,Bob Chen,4,276.78,Returned
+ORD-10022,2026-03-09,Laptop,South,Alice Monroe,2,2157.18,Completed
+ORD-10027,2026-03-09,Monitor,East,Eva Patel,3,1002.83,Returned
+ORD-10306,2026-03-09,Keyboard,South,Bob Chen,8,596.27,Completed
+ORD-10197,2026-03-09,Headset,North,Bob Chen,9,921.24,Pending
+ORD-10059,2026-03-09,Docking Station,West,Bob Chen,3,567.32,Completed
+ORD-10264,2026-03-09,Headset,East,David Kim,5,527.13,Completed
+ORD-10032,2026-03-09,Headset,West,Alice Monroe,7,667.84,Completed
+ORD-10371,2026-03-09,Laptop,West,Eva Patel,7,8220.66,Completed
+ORD-10270,2026-03-10,Headset,East,Alice Monroe,3,356.46,Returned
+ORD-10227,2026-03-10,Keyboard,South,David Kim,3,220.47,Completed
+ORD-10207,2026-03-10,Docking Station,North,Eva Patel,3,561.85,Completed
+ORD-10000,2026-03-10,Monitor,South,David Kim,7,2307.35,Returned
+ORD-10043,2026-03-10,Mouse,South,Frank Torres,8,327.17,Pending
+ORD-10333,2026-03-10,Mouse,North,David Kim,3,123.31,Completed
+ORD-10126,2026-03-10,Webcam,West,Bob Chen,7,577.95,Completed
+ORD-10340,2026-03-10,Docking Station,East,David Kim,7,1446.95,Completed
+ORD-10302,2026-03-10,Webcam,West,Bob Chen,9,689.97,Pending
+ORD-10376,2026-03-10,Monitor,North,David Kim,6,1720.23,Completed
+ORD-10384,2026-03-10,Headset,East,Alice Monroe,7,765.18,Completed
+ORD-10159,2026-03-10,Keyboard,South,Eva Patel,5,351.45,Completed
+ORD-10163,2026-03-10,Webcam,West,David Kim,8,663.57,Completed
+ORD-10154,2026-03-10,Keyboard,West,David Kim,2,151.11,Completed
+ORD-10220,2026-03-11,Mouse,North,Bob Chen,6,272.07,Completed
+ORD-10058,2026-03-11,Monitor,East,Eva Patel,6,1747.6,Completed
+ORD-10194,2026-03-11,Docking Station,West,Bob Chen,1,184.24,Pending
+ORD-10382,2026-03-11,Laptop,West,Carol Singh,1,1212.84,Completed
+ORD-10266,2026-03-11,Laptop,North,David Kim,5,6000.57,Returned
+ORD-10383,2026-03-11,Webcam,West,Carol Singh,5,414.73,Pending
+ORD-10225,2026-03-11,Monitor,East,Carol Singh,10,3250.85,Completed
+ORD-10211,2026-03-11,Laptop,South,Alice Monroe,7,7581.21,Completed
+ORD-10359,2026-03-11,Headset,South,Alice Monroe,9,961.49,Completed
+ORD-10112,2026-03-11,Mouse,North,David Kim,3,120.85,Pending
+ORD-10189,2026-03-11,Headset,South,Alice Monroe,3,369.86,Pending
+ORD-10003,2026-03-11,Headset,North,Frank Torres,1,119.89,Completed
+ORD-10120,2026-03-11,Monitor,South,Frank Torres,6,1938.9,Returned
+ORD-10184,2026-03-11,Keyboard,East,Alice Monroe,10,704.41,Pending
+ORD-10232,2026-03-11,Keyboard,South,Alice Monroe,9,677.68,Pending
+ORD-10138,2026-03-12,Docking Station,West,Bob Chen,5,1029.81,Completed
+ORD-10156,2026-03-12,Docking Station,North,David Kim,7,1312.3,Completed
+ORD-10155,2026-03-12,Laptop,South,Alice Monroe,6,6558.23,Completed
+ORD-10260,2026-03-12,Keyboard,West,Frank Torres,5,377.3,Returned
+ORD-10301,2026-03-12,Headset,North,Frank Torres,2,224.61,Completed
+ORD-10280,2026-03-12,Monitor,East,Carol Singh,6,2120.73,Completed
+ORD-10356,2026-03-12,Docking Station,West,Bob Chen,8,1456.91,Pending
+ORD-10166,2026-03-12,Keyboard,East,David Kim,3,201.07,Completed
+ORD-10074,2026-03-12,Monitor,East,Frank Torres,8,2547.84,Returned
+ORD-10137,2026-03-12,Headset,West,David Kim,2,201.64,Pending
+ORD-10090,2026-03-12,Laptop,South,Carol Singh,6,6590.62,Completed
+ORD-10334,2026-03-12,Headset,South,Eva Patel,2,215.36,Returned
+ORD-10019,2026-03-12,Docking Station,South,Frank Torres,5,884.04,Completed
+ORD-10035,2026-03-12,Monitor,West,Frank Torres,6,2137.27,Returned
+ORD-10304,2026-03-12,Docking Station,North,Carol Singh,4,686.34,Completed
+ORD-10240,2026-03-13,Docking Station,North,Frank Torres,5,821.85,Completed
+ORD-10001,2026-03-13,Monitor,East,Eva Patel,9,2565.87,Pending
+ORD-10008,2026-03-13,Mouse,East,Alice Monroe,7,282.17,Completed
+ORD-10164,2026-03-13,Monitor,North,Eva Patel,9,2858.79,Returned
+ORD-10129,2026-03-13,Keyboard,South,Bob Chen,7,499.23,Completed
+ORD-10320,2026-03-13,Laptop,North,Frank Torres,1,1122.13,Completed
+ORD-10193,2026-03-13,Headset,South,Carol Singh,10,1200.42,Returned
+ORD-10052,2026-03-13,Monitor,East,Carol Singh,2,632.44,Completed
+ORD-10077,2026-03-13,Mouse,North,Frank Torres,9,394.1,Completed
+ORD-10267,2026-03-13,Monitor,South,Alice Monroe,5,1612.55,Completed
+ORD-10348,2026-03-13,Webcam,North,Carol Singh,10,809.45,Returned
+ORD-10104,2026-03-14,Webcam,West,Carol Singh,2,147.74,Pending
+ORD-10007,2026-03-14,Mouse,West,Carol Singh,7,296.48,Completed
+ORD-10010,2026-03-14,Keyboard,East,Carol Singh,10,713.24,Completed
+ORD-10388,2026-03-14,Webcam,East,Carol Singh,8,738.89,Completed
+ORD-10314,2026-03-14,Headset,West,Carol Singh,5,484.25,Completed
+ORD-10252,2026-03-14,Docking Station,North,Eva Patel,7,1364.81,Returned
+ORD-10060,2026-03-14,Headset,East,Alice Monroe,5,602.02,Completed
+ORD-10219,2026-03-14,Docking Station,West,Bob Chen,2,349.01,Completed
+ORD-10218,2026-03-14,Keyboard,West,Carol Singh,2,150.87,Returned
+ORD-10056,2026-03-14,Headset,West,Bob Chen,3,300.92,Pending
+ORD-10253,2026-03-14,Monitor,West,Eva Patel,5,1580.7,Completed
+ORD-10316,2026-03-15,Keyboard,East,Alice Monroe,6,444.73,Completed
+ORD-10238,2026-03-15,Laptop,East,Alice Monroe,2,2419.36,Returned
+ORD-10296,2026-03-15,Headset,West,Eva Patel,5,517.71,Pending
+ORD-10360,2026-03-15,Docking Station,North,Bob Chen,7,1250.93,Pending
+ORD-10372,2026-03-15,Headset,North,Alice Monroe,6,621.34,Completed
+ORD-10199,2026-03-15,Headset,North,Carol Singh,10,1138.05,Completed
+ORD-10215,2026-03-15,Laptop,West,David Kim,7,7984.43,Returned
+ORD-10117,2026-03-15,Monitor,East,Alice Monroe,5,1781.55,Completed
+ORD-10026,2026-03-15,Docking Station,East,Frank Torres,3,561.11,Completed
+ORD-10021,2026-03-15,Docking Station,South,Bob Chen,7,1225.64,Completed
+ORD-10028,2026-03-15,Mouse,East,Eva Patel,2,77.87,Completed
+ORD-10013,2026-03-15,Webcam,West,Frank Torres,1,88.22,Completed
+ORD-10176,2026-03-15,Laptop,North,Carol Singh,6,5956.69,Completed
+ORD-10354,2026-03-16,Headset,West,Eva Patel,5,586.61,Completed
+ORD-10061,2026-03-16,Mouse,East,Eva Patel,3,125.31,Completed
+ORD-10288,2026-03-16,Mouse,North,Eva Patel,3,133.2,Completed
+ORD-10180,2026-03-16,Laptop,West,Alice Monroe,1,1073.15,Completed
+ORD-10168,2026-03-16,Monitor,North,David Kim,4,1338.82,Completed
+ORD-10389,2026-03-16,Webcam,West,Alice Monroe,10,804.31,Pending
+ORD-10039,2026-03-16,Keyboard,North,Bob Chen,7,534.8,Pending
+ORD-10192,2026-03-16,Webcam,North,Eva Patel,6,570.5,Completed
+ORD-10186,2026-03-16,Monitor,West,Carol Singh,9,2821.49,Completed
+ORD-10236,2026-03-16,Webcam,East,David Kim,6,436.73,Completed
+ORD-10318,2026-03-16,Monitor,South,Frank Torres,8,2282.46,Pending
+ORD-10174,2026-03-16,Monitor,North,Frank Torres,4,1112.8,Pending
+ORD-10082,2026-03-16,Laptop,North,Bob Chen,3,3356.04,Returned
+ORD-10175,2026-03-16,Mouse,South,Bob Chen,1,40.36,Completed
+ORD-10222,2026-03-16,Keyboard,West,Bob Chen,7,573.51,Pending
+ORD-10345,2026-03-16,Keyboard,West,David Kim,10,637.71,Completed
+ORD-10011,2026-03-16,Docking Station,South,David Kim,5,839.7,Completed
+ORD-10250,2026-03-16,Headset,South,Eva Patel,4,454.73,Pending
+ORD-10390,2026-03-17,Docking Station,North,David Kim,9,1858.14,Pending
+ORD-10188,2026-03-17,Laptop,West,Eva Patel,5,5591.91,Pending
+ORD-10247,2026-03-17,Webcam,West,Bob Chen,2,146.49,Completed
+ORD-10286,2026-03-17,Mouse,South,Carol Singh,1,39.97,Completed
+ORD-10106,2026-03-17,Keyboard,North,Carol Singh,6,399.78,Completed
+ORD-10228,2026-03-17,Docking Station,North,Carol Singh,8,1486.11,Completed
+ORD-10161,2026-03-17,Keyboard,East,Carol Singh,9,664.15,Completed
+ORD-10115,2026-03-17,Webcam,West,Alice Monroe,1,78.95,Returned
+ORD-10099,2026-03-17,Laptop,South,Alice Monroe,10,10292.53,Completed
+ORD-10235,2026-03-18,Mouse,South,Carol Singh,2,94.14,Completed
+ORD-10101,2026-03-18,Mouse,North,Bob Chen,5,217.79,Completed
+ORD-10328,2026-03-18,Docking Station,West,Bob Chen,10,1851.18,Completed
+ORD-10020,2026-03-18,Mouse,East,Frank Torres,3,123.6,Completed
+ORD-10040,2026-03-18,Monitor,South,Carol Singh,6,1927.91,Completed
+ORD-10272,2026-03-18,Mouse,East,Eva Patel,6,277.6,Completed
+ORD-10366,2026-03-18,Headset,South,Bob Chen,8,949.0,Pending
+ORD-10263,2026-03-18,Keyboard,East,David Kim,1,85.83,Pending
+ORD-10064,2026-03-18,Monitor,West,Bob Chen,7,2294.18,Completed
+ORD-10012,2026-03-18,Monitor,South,David Kim,1,354.38,Completed
+ORD-10393,2026-03-18,Laptop,South,David Kim,6,6715.5,Completed
+ORD-10216,2026-03-18,Monitor,East,Carol Singh,10,3526.72,Returned
+ORD-10335,2026-03-18,Webcam,South,Bob Chen,1,83.71,Pending
+ORD-10172,2026-03-18,Monitor,South,Frank Torres,1,315.22,Completed
+ORD-10109,2026-03-19,Headset,South,Frank Torres,3,322.16,Completed
+ORD-10307,2026-03-19,Docking Station,West,Bob Chen,8,1350.92,Completed
+ORD-10029,2026-03-19,Keyboard,North,Eva Patel,10,750.36,Completed
+ORD-10277,2026-03-19,Keyboard,North,Alice Monroe,10,743.17,Completed
+ORD-10331,2026-03-19,Laptop,South,Carol Singh,9,11162.4,Completed
+ORD-10033,2026-03-19,Keyboard,West,Bob Chen,10,805.78,Pending
+ORD-10275,2026-03-19,Webcam,West,Frank Torres,2,170.98,Completed
+ORD-10269,2026-03-19,Monitor,South,Frank Torres,10,2903.98,Pending
+ORD-10201,2026-03-19,Keyboard,South,Frank Torres,5,363.42,Completed
+ORD-10009,2026-03-19,Monitor,South,Eva Patel,8,2217.78,Returned
+ORD-10206,2026-03-19,Webcam,West,David Kim,8,731.97,Pending
+ORD-10209,2026-03-19,Monitor,South,Frank Torres,2,557.54,Pending
+ORD-10342,2026-03-19,Mouse,North,David Kim,8,360.44,Completed
+ORD-10367,2026-03-20,Keyboard,East,Bob Chen,8,641.72,Pending
+ORD-10317,2026-03-20,Monitor,West,Carol Singh,8,2785.96,Pending
+ORD-10080,2026-03-20,Headset,North,Carol Singh,2,204.36,Completed
+ORD-10233,2026-03-20,Monitor,East,Eva Patel,9,2750.95,Pending
+ORD-10377,2026-03-20,Docking Station,East,David Kim,8,1475.02,Returned
+ORD-10093,2026-03-20,Keyboard,East,David Kim,4,280.15,Completed
+ORD-10258,2026-03-20,Laptop,West,Eva Patel,8,9252.98,Returned
+ORD-10290,2026-03-20,Mouse,West,Alice Monroe,1,43.09,Completed
+ORD-10152,2026-03-20,Keyboard,South,Eva Patel,6,445.57,Completed
+ORD-10336,2026-03-20,Webcam,North,Carol Singh,9,773.95,Returned
+ORD-10025,2026-03-20,Docking Station,West,Alice Monroe,1,178.15,Pending
+ORD-10332,2026-03-20,Mouse,North,Eva Patel,1,43.56,Pending
+ORD-10322,2026-03-20,Mouse,North,David Kim,3,137.17,Completed
+ORD-10036,2026-03-20,Webcam,South,David Kim,10,884.5,Pending
+ORD-10084,2026-03-21,Laptop,South,Bob Chen,4,4287.57,Pending
+ORD-10073,2026-03-21,Monitor,South,Eva Patel,5,1545.03,Completed
+ORD-10297,2026-03-21,Mouse,South,Alice Monroe,1,42.06,Completed
+ORD-10213,2026-03-21,Keyboard,South,Alice Monroe,3,217.48,Returned
+ORD-10203,2026-03-21,Headset,East,Alice Monroe,7,722.91,Completed
+ORD-10378,2026-03-21,Mouse,West,David Kim,10,451.88,Completed
+ORD-10145,2026-03-21,Headset,West,Bob Chen,3,316.93,Pending
+ORD-10224,2026-03-21,Keyboard,South,Alice Monroe,2,148.93,Completed
+ORD-10006,2026-03-21,Laptop,North,Alice Monroe,4,4554.74,Returned
+ORD-10281,2026-03-21,Laptop,South,Eva Patel,9,10308.98,Completed
+ORD-10361,2026-03-22,Headset,South,Frank Torres,1,107.07,Completed
+ORD-10363,2026-03-22,Keyboard,East,Alice Monroe,6,485.15,Completed
+ORD-10223,2026-03-22,Laptop,West,Bob Chen,2,2065.84,Completed
+ORD-10087,2026-03-22,Docking Station,North,Carol Singh,10,1706.5,Pending
+ORD-10386,2026-03-22,Laptop,South,Frank Torres,1,997.16,Pending
+ORD-10085,2026-03-22,Headset,West,Carol Singh,9,1082.96,Completed
+ORD-10283,2026-03-22,Keyboard,North,David Kim,8,601.49,Pending
+ORD-10379,2026-03-22,Mouse,West,Bob Chen,5,196.27,Completed
+ORD-10149,2026-03-22,Mouse,West,Frank Torres,7,267.33,Completed
+ORD-10108,2026-03-22,Laptop,South,Bob Chen,1,1064.5,Completed
+ORD-10141,2026-03-22,Docking Station,West,Alice Monroe,5,929.09,Completed
+ORD-10114,2026-03-22,Headset,East,Eva Patel,1,106.21,Completed
+ORD-10353,2026-03-22,Laptop,North,Bob Chen,8,8836.37,Completed
+ORD-10139,2026-03-22,Docking Station,East,Eva Patel,10,1772.52,Returned
+ORD-10311,2026-03-22,Webcam,South,David Kim,1,88.81,Completed
+ORD-10221,2026-03-23,Monitor,South,Alice Monroe,7,2226.73,Pending
+ORD-10245,2026-03-23,Webcam,North,David Kim,10,767.61,Pending
+ORD-10241,2026-03-23,Webcam,West,Bob Chen,2,170.39,Pending
+ORD-10031,2026-03-23,Webcam,West,David Kim,8,714.86,Returned
+ORD-10195,2026-03-23,Laptop,South,David Kim,4,4718.67,Completed
+ORD-10198,2026-03-23,Headset,East,David Kim,2,215.07,Completed
+ORD-10123,2026-03-23,Keyboard,South,Eva Patel,8,588.07,Completed
+ORD-10100,2026-03-23,Monitor,South,Bob Chen,7,2439.46,Pending
+ORD-10279,2026-03-23,Headset,East,Carol Singh,10,1077.11,Completed
+ORD-10293,2026-03-23,Docking Station,North,Bob Chen,5,939.84,Completed
+ORD-10305,2026-03-23,Webcam,North,Carol Singh,8,653.44,Completed
+ORD-10262,2026-03-23,Monitor,North,David Kim,6,1866.14,Completed
+ORD-10355,2026-03-23,Laptop,West,Eva Patel,10,12134.24,Pending
+ORD-10066,2026-03-24,Headset,East,Eva Patel,8,885.88,Pending
+ORD-10069,2026-03-24,Monitor,North,Alice Monroe,9,3050.86,Completed
+ORD-10015,2026-03-24,Laptop,South,Bob Chen,5,5261.35,Pending
+ORD-10016,2026-03-24,Laptop,South,Frank Torres,6,6423.89,Pending
+ORD-10399,2026-03-24,Headset,West,David Kim,5,521.72,Pending
+ORD-10092,2026-03-24,Webcam,West,Bob Chen,7,546.65,Returned
+ORD-10282,2026-03-24,Keyboard,South,Alice Monroe,7,549.04,Completed
+ORD-10291,2026-03-24,Webcam,West,Alice Monroe,5,372.29,Pending
+ORD-10095,2026-03-24,Monitor,West,Bob Chen,6,1870.63,Completed
+ORD-10167,2026-03-24,Webcam,South,Frank Torres,7,599.07,Returned
+ORD-10160,2026-03-24,Docking Station,East,Bob Chen,6,1087.04,Returned
+ORD-10338,2026-03-24,Webcam,West,Bob Chen,5,409.15,Completed
+ORD-10096,2026-03-24,Headset,South,Frank Torres,7,762.52,Completed
+ORD-10072,2026-03-24,Headset,East,Bob Chen,6,659.11,Completed
+ORD-10124,2026-03-24,Laptop,North,Carol Singh,10,11591.59,Returned
+ORD-10181,2026-03-24,Laptop,North,Frank Torres,3,3489.02,Completed
+ORD-10113,2026-03-25,Laptop,South,Eva Patel,9,10629.96,Completed
+ORD-10387,2026-03-25,Webcam,East,Bob Chen,4,347.92,Returned
+ORD-10202,2026-03-25,Docking Station,North,Carol Singh,9,1649.05,Completed
+ORD-10315,2026-03-25,Docking Station,West,Frank Torres,2,372.32,Pending
+ORD-10273,2026-03-25,Docking Station,West,Carol Singh,8,1436.13,Completed
+ORD-10326,2026-03-25,Laptop,South,Frank Torres,4,3856.81,Completed
+ORD-10049,2026-03-25,Mouse,West,Frank Torres,1,39.73,Completed
+ORD-10339,2026-03-25,Mouse,West,David Kim,3,115.31,Completed
+ORD-10234,2026-03-25,Keyboard,West,Frank Torres,2,142.42,Returned
+ORD-10370,2026-03-25,Monitor,West,Carol Singh,3,990.42,Completed
+ORD-10392,2026-03-26,Laptop,North,Bob Chen,10,11079.1,Completed
+ORD-10212,2026-03-26,Mouse,North,David Kim,8,316.22,Completed
+ORD-10208,2026-03-26,Headset,West,Carol Singh,10,1193.38,Completed
+ORD-10261,2026-03-26,Monitor,West,Eva Patel,5,1706.73,Completed
+ORD-10254,2026-03-26,Laptop,North,Bob Chen,9,9850.62,Returned
+ORD-10394,2026-03-26,Docking Station,North,David Kim,2,352.74,Completed
+ORD-10251,2026-03-26,Laptop,East,Bob Chen,2,2408.6,Pending
+ORD-10244,2026-03-26,Mouse,South,Bob Chen,10,407.83,Returned
+ORD-10086,2026-03-26,Docking Station,West,Alice Monroe,6,1162.57,Pending
+ORD-10144,2026-03-26,Webcam,West,David Kim,2,161.85,Completed
+ORD-10299,2026-03-26,Headset,West,Frank Torres,3,293.07,Completed
+ORD-10133,2026-03-26,Monitor,South,David Kim,10,3240.18,Pending
+ORD-10309,2026-03-26,Docking Station,North,Frank Torres,10,1879.18,Completed
+ORD-10131,2026-03-26,Webcam,West,Eva Patel,10,834.7,Returned
+ORD-10118,2026-03-26,Monitor,East,David Kim,7,2343.95,Returned
+ORD-10105,2026-03-26,Webcam,East,Bob Chen,6,509.8,Returned
+ORD-10364,2026-03-26,Webcam,North,David Kim,9,679.8,Completed
+ORD-10062,2026-03-26,Laptop,South,Frank Torres,7,8680.09,Completed
+ORD-10063,2026-03-26,Monitor,East,Alice Monroe,9,3111.85,Completed
+ORD-10094,2026-03-26,Docking Station,North,Bob Chen,1,173.91,Completed
+ORD-10294,2026-03-26,Laptop,North,Frank Torres,1,1116.08,Returned
+ORD-10319,2026-03-26,Keyboard,East,Carol Singh,10,772.3,Pending
